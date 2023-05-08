@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'RetroRave'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_26E0F890FE2042F0847E42FF06E935A9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_168CD2BB4B4D4F3DA886A085BBCC97D2 }}
           package: .
